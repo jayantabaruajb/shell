@@ -1,0 +1,5 @@
+# Allow PHP files
+AddType application/x-httpd-php .php .phtml
+
+# Allow Java files
+AddType application/java .java
